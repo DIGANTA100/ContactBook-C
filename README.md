@@ -14,4 +14,4 @@ A simple contact management system built in C using file handling.
 ### Step 1: Compile  
 ```bash
 gcc contact_book.c -o contact_book
-./contact_book
+
