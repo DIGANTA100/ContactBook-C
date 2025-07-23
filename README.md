@@ -11,8 +11,11 @@ A simple contact management system built in C using file handling.
 
 ## How to Run
 
-### Step 1: Compile  
+### Step 1: Compile 
+
 gcc contact_book.c -o contact_book
+
+
 ### Step 2: Run
 ```bash
 ./contact_book
