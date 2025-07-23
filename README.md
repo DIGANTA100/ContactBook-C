@@ -17,6 +17,15 @@ gcc contact_book.c -o contact_book
 
 
 ### Step 2: Run
-```bash
+
 ./contact_book
+
+---
+
+### 👨‍💻 Author
+**Ajmain Fayek Diganta**  
+🎓 CSE Student @ BUET  
+📬 Email: ajmainfayekdiganta.com  
+🌐 GitHub: [DIGANTA100](https://github.com/DIGANTA100)
+
 
