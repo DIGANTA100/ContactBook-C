@@ -12,14 +12,14 @@ A simple contact management system built in C using file handling.
 ## How to Run
 
 ### Step 1: Compile 
-
+```bash
 gcc contact_book.c -o contact_book
 
-
+```
 ### Step 2: Run
-
+```
 ./contact_book
-
+```
 ---
 
 ### 👨‍💻 Author
